@@ -1,0 +1,19 @@
+{
+  "name": "03_BasesNodeJS",
+  "version": "0.0.1",
+  "description": "Uso de Node bases Calcula imprime y almacena tablas de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app 3,6,9 2,4,8"
+  },
+  "keywords": [
+    "Calculadora",
+    "Tablas multiplicar"
+  ],
+  "author": "Mariano Soto <mariano@mediaunocero.com> (https://mediaunocero.com)",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
